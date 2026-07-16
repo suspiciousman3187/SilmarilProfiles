@@ -1,12 +1,12 @@
 # Omen Profiles
 For Omen, since there are no enrage or hard DPS checks, I run a mostly defensive setup focused around slow but stable and consistent kills with defensive support and lots of backup healing.
 
-PLD/RDM - For tanking/healing. You can also run /SCH or /BLU if you want.
-MNK/DRG - Main DPS. Useful for tanking Unfaltering Bravado with Mantra.
-COR/DNC - Defensive support with Gallant's Roll and backup healing with Waltz.
-GEO/WHM - Defensive support with Indi-Barrier & backup healing with Curaga III.
-RDM/WHM - Buff/Debuff support and backup healing with Cure/Curaga III.
-BRD/WHM - Defensive support and backup healing with Curaga III.
+* PLD/RDM - For tanking/healing. You can also run /SCH or /BLU if you want.
+* MNK/DRG - Main DPS. Useful for tanking Unfaltering Bravado with Mantra.
+* COR/DNC - Defensive support with Gallant's Roll and backup healing with Waltz.
+* GEO/WHM - Defensive support with Indi-Barrier & backup healing with Curaga III.
+* RDM/WHM - Buff/Debuff support and backup healing with Cure/Curaga III.
+* BRD/WHM - Defensive support and backup healing with Curaga III.
 
 ## Encounter Auto-switching Triggers
 I run a set of triggers on the Paladin which automatically moves to the next profile set as I run. This lets me not worry about manually switching profiles throughout the run. Here is an example flow with my setup.
