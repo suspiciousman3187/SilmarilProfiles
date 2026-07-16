@@ -62,8 +62,8 @@ Requires special setup. There are three profiles based on the "phases" of the Ou
 2. OuMid - Used for the middle of the fight up to Dancing Fullers cast. A standard profile focused on setting up buffs/debuffs & Monk using Mantra to prepare for Unfaltering Bravado. Includes a trigger to run away to avoid Dancing Fullers.
 3. OuZerg - After Dancing Fullers, the trigger will load this last profile. At this point, I basically just zerg him down and ignore the rest of the mechanics.
 
-## Fight Instructions
-1. Load at the start, make sure the party is positioned 21y+ away to avoid Ebullient Nullification. Run in and engage with ONLY Monk and bring him down to 95%. Silmaril should be on ONLY for the Monk.
+## Ou Fight Instructions
+1. Load OuStart prepull, make sure the party is positioned 21y+ away to avoid Ebullient Nullification. Run in and engage with ONLY Monk and bring him down to 95%. Silmaril should be on ONLY for the Monk.
 2. After Ebullient Nullification, the trigger will switch to OuMid, causing the party will run in and start setting up buffs/debuffs. Make sure to use Mantra on Monk and prepare for Unfaltering Bravado.
 3. After Unfaltering Bravado, DPS him down until he does Dancing Fullers.
 4. After Dancing Fullers, trigger will switch to OuZerg and finish the fight.
